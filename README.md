@@ -16,6 +16,17 @@ A curated list of awesome  3D-detection methods based on multi-modal data fusion
 
 
 <!--- <font color=“red”>  paper naem </font> [[Paper](paper link)] [[Code](code link)]  -->
+
+## 3D-Detection Library from Point-Cloud
+- [Open3D](http://www.open3d.org/): [https://github.com/intel-isl/Open3D](https://github.com/intel-isl/Open3D)
+- [Torch-Points3D](https://arxiv.org/pdf/2010.04642.pdf): [https://github.com/nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d)
+- [mmdetection3d](https://mmdetection3d.readthedocs.io/en/latest/): [https://github.com/open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet): [https://github.com/open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+- [PyTorch3D](https://arxiv.org/pdf/2007.08501.pdf): [https://github.com/facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)
+- [Minkowski Engine](https://github.com/NVIDIA/MinkowskiEngine): [https://github.com/NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
+- [pointcloudset](https://joss.theoj.org/papers/10.21105/joss.03471#): [https://github.com/virtual-vehicle/pointcloudset](https://github.com/virtual-vehicle/pointcloudset)
+
+
 ## 2022
 
 ## 2021
